@@ -1,0 +1,8 @@
+albumentations
+imgaug
+opencv_python_headless
+qudida
+scikit_image
+scikit_learn
+scipy
+setuptools
